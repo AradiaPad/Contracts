@@ -20,7 +20,7 @@ The project uses OpenZeppelin for ERC-20 and Ownable standards, ensuring securit
 
 ```mermaid
 graph TD
-    A[User] --> B[TokenFactory.createToken()]
+    A[User] --> B["TokenFactory.createToken()"]
     B --> C[Pay 2 ASTR]
     C --> D[Input Validations]
     D --> E[Create Token Contract]
@@ -30,7 +30,7 @@ graph TD
     H --> I[Return Token Address]
 
     J[Token Contract] --> K[Initial Mint to Creator]
-    K --> L[Functions: mint(), burn(), decimals()]
+    K --> L["Functions: mint(), burn(), decimals()"]
 ```
 
 ## Architecture
