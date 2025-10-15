@@ -1,13 +1,4 @@
-# Aradia Token Factory
-
-## Author
-0xNigromante
-
-## Date
-1/10/2025
-
-## Technologies
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+# Aradia Token Factory ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## Overview
 
