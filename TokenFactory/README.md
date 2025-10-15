@@ -1,7 +1,4 @@
-# Aradia Token Factory ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-## Overview
-
+# Aradia Token Factory    ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 This project implements a customizable ERC-20 token factory on the Astar network (ASTR). It consists of two main contracts:
 
 - **`Token.sol`**: A standard ERC-20 contract with configurable decimals, initial supply, and minting/burning functionalities restricted to the owner.
